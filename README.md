@@ -1,17 +1,72 @@
-    # TacNetAirsoft App Releases
+# TacNetAirsoft – Android App
 
-    This repository contains the official APK releases for the TacNetAirsoft Android application.
+TacNetAirsoft is an Android application designed to organize and manage airsoft matches by connecting multiple devices and assigning different tactical roles during gameplay.
 
-    ## About: 
-    This app started as my Final Degree Project, but I will continue to update and expand it as a personal proyect of mine.
-    TacNetAirsoft is designed to help organize airsoft games by configuring multiple Android devices to fulfill different terminal roles during a match.
+Originally developed as my Final Degree Project (DAM), it is now an actively maintained personal project with continuous improvements and open beta releases.
 
+---
 
-    ## How to Install
-    1. Go to the [Releases page](https://github.com/MadWolf97/TacNetAirsoft-app/releases).
-    2. Find the latest version (e.g., `v1.4.0`).
-    3. Under the **Releases** section, download the `.apk` file.
-    4. You may need to enable "Install from unknown sources" on your Android device to install the app.
-    
-    ## Disclaimer: 
-    To organize a game using this app, at least two Android devices are required.
+## 🚀 Open Beta Releases
+
+Download the latest APK from the Releases page:
+
+👉 https://github.com/DanielGrohmannPerez/TacNetAirsoft-app/releases
+
+### Installation
+1. Download the latest `.apk`
+2. Enable **Install from unknown sources** on your Android device
+3. Install the APK
+4. Launch the app
+
+⚠️ At least **two Android devices** are required to run a match.
+
+---
+
+## ✨ Features
+- Multi-device match coordination
+- Role-based terminals
+- Server-based data persistence using MySQL
+- Real-time match organization
+- New game modes inspired by mechanics traditionally seen in video games
+
+---
+
+## 🛠 Tech Overview
+- Java (Android)
+- Client–server architecture
+- MySQL backend
+- Real-time device synchronization
+
+---
+
+## 🧪 Beta Status
+
+This project is currently in **open beta**.
+
+Expect:
+- ongoing feature development
+- bugs or incomplete features
+- frequent updates
+
+Feedback is highly appreciated.
+
+---
+
+## 🐞 Report Bugs / Request Features
+
+If you find issues or have suggestions:
+
+👉 Open an Issue:
+https://github.com/DanielGrohmannPerez/TacNetAirsoft-app/issues
+
+Please include:
+- device model
+- Android version
+- steps to reproduce
+
+---
+
+## 🔒 Source Code
+
+The source code for this project is private.  
+This repository is used only to distribute official releases and collect feedback.
